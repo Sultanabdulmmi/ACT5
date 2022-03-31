@@ -1,0 +1,9 @@
+<resources>
+    <string name="lihatdata">Lihat</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="note1">Nomor Telpon</string>
+</resources>
